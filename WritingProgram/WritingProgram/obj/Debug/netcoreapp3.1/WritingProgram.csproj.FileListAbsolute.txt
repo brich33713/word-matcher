@@ -1,0 +1,13 @@
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\bin\Debug\netcoreapp3.1\WritingProgram.exe
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\bin\Debug\netcoreapp3.1\WritingProgram.deps.json
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\bin\Debug\netcoreapp3.1\WritingProgram.runtimeconfig.json
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\bin\Debug\netcoreapp3.1\WritingProgram.runtimeconfig.dev.json
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\bin\Debug\netcoreapp3.1\WritingProgram.dll
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\bin\Debug\netcoreapp3.1\WritingProgram.pdb
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\obj\Debug\netcoreapp3.1\WritingProgram.csprojAssemblyReference.cache
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\obj\Debug\netcoreapp3.1\WritingProgram.AssemblyInfoInputs.cache
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\obj\Debug\netcoreapp3.1\WritingProgram.AssemblyInfo.cs
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\obj\Debug\netcoreapp3.1\WritingProgram.csproj.CoreCompileInputs.cache
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\obj\Debug\netcoreapp3.1\WritingProgram.dll
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\obj\Debug\netcoreapp3.1\WritingProgram.pdb
+C:\Users\BrandonRichardson\Desktop\Projects\WritingProgram\WritingProgram\WritingProgram\obj\Debug\netcoreapp3.1\WritingProgram.genruntimeconfig.cache
